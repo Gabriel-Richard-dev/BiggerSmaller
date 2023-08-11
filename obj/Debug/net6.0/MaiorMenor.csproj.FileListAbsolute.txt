@@ -1,0 +1,15 @@
+/home/gabrielrichard/atividades/MaiorMenor/obj/Debug/net6.0/MaiorMenor.csproj.AssemblyReference.cache
+/home/gabrielrichard/atividades/MaiorMenor/obj/Debug/net6.0/MaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielrichard/atividades/MaiorMenor/obj/Debug/net6.0/MaiorMenor.AssemblyInfoInputs.cache
+/home/gabrielrichard/atividades/MaiorMenor/obj/Debug/net6.0/MaiorMenor.AssemblyInfo.cs
+/home/gabrielrichard/atividades/MaiorMenor/obj/Debug/net6.0/MaiorMenor.csproj.CoreCompileInputs.cache
+/home/gabrielrichard/atividades/MaiorMenor/bin/Debug/net6.0/MaiorMenor
+/home/gabrielrichard/atividades/MaiorMenor/bin/Debug/net6.0/MaiorMenor.deps.json
+/home/gabrielrichard/atividades/MaiorMenor/bin/Debug/net6.0/MaiorMenor.runtimeconfig.json
+/home/gabrielrichard/atividades/MaiorMenor/bin/Debug/net6.0/MaiorMenor.dll
+/home/gabrielrichard/atividades/MaiorMenor/bin/Debug/net6.0/ref/MaiorMenor.dll
+/home/gabrielrichard/atividades/MaiorMenor/bin/Debug/net6.0/MaiorMenor.pdb
+/home/gabrielrichard/atividades/MaiorMenor/obj/Debug/net6.0/MaiorMenor.dll
+/home/gabrielrichard/atividades/MaiorMenor/obj/Debug/net6.0/ref/MaiorMenor.dll
+/home/gabrielrichard/atividades/MaiorMenor/obj/Debug/net6.0/MaiorMenor.pdb
+/home/gabrielrichard/atividades/MaiorMenor/obj/Debug/net6.0/MaiorMenor.genruntimeconfig.cache
