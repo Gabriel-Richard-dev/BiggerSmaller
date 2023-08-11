@@ -75,7 +75,7 @@ namespace MaiorMenor {
         }
 
 
-//tu percebeu que ele ta em loop? sem usar while usando funçoes
+
     }
 
 
